@@ -1,8 +1,0 @@
-Asegúrate de que tu sitio web sea responsivo:
-
-Antes de convertir tu sitio en una PWA, es importante que esté diseñado de manera que funcione correctamente en dispositivos móviles y se adapte a diferentes tamaños de pantalla.
-Añade un archivo manifest:
-
-Un archivo manifest es un archivo JSON que proporciona información sobre tu aplicación.
-Debes incluirlo en la etiqueta <head> de tus páginas HTML. 
-Este archivo especifica información como el nombre de la aplicación, los iconos utilizados, el color de fondo y otros metadatos.
